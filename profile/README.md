@@ -1,4 +1,4 @@
-# [![](/openchatgpt-logo-favicon-red-on-transparent.png)](https:///opening-up-chatgpt.github.io/) Opening up ChatGPT — [live table](https://opening-up-chatgpt.github.io/)
+# [![](/openchatgpt-logo-favicon-red-on-transparent.png)](https:///opening-up-chatgpt.github.io/) Opening up ChatGPT — [see live table](https://opening-up-chatgpt.github.io/)
 
 
 
