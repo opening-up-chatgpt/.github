@@ -1,4 +1,4 @@
-# [![](/openchatgpt-logo-favicon-red-on-transparent.png)](https:///opening-up-chatgpt.github.io/) Opening up ChatGPT — [openness leaderboard](https://opening-up-chatgpt.github.io/) | [ repo](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io)
+# [![](/openchatgpt-logo-favicon-red-on-transparent.png)](https:///opening-up-chatgpt.github.io/) Opening up ChatGPT — [openness leaderboard](https://opening-up-chatgpt.github.io/) | [ repo](https://github.com/open-genai/opening-up-chatgpt.github.io)
 
 
 
@@ -26,5 +26,4 @@ _Abstract_
 # Guide
 We have three things here:
 1. A [live table](https://opening-up-chatgpt.github.io/) of open LLM+RLHF projects with fine-grained data on degrees of openness
-2. A repository holding [the underlying data](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io/tree/main/projects), in human readable yaml files open for community contributions
-3. An more free-form [awesomelist](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io##opening-up-chatgpt-a-curated-list-to-track-openness-transparency-and-accountability-in-instruction-following-text-generators-) of open ChatGTP alternatives projects that we use to crowdsource discovery of new models
+2. A repository holding [the underlying data](https://github.com/open-genai/opening-up-chatgpt.github.io/tree/main/projects), in human readable yaml files open for community contributions
