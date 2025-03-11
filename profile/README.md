@@ -1,6 +1,6 @@
 # [![](/openchatgpt-logo-favicon-red-on-transparent.png)](https://osai-index.eu/) Opening up ChatGPT
 
-**Please note:** The original "Opening up ChatGPT" project (active 2023-2024) is superseded by the [European Open Source AI Index](https://osai-index.eu). We preserve this repository for historical purposes, but it is no longer updated. For the latest on openness and generative AI, check out the [osai-index.eu](https://osai-index.eu).
+**Please note:** The original "Opening up ChatGPT" project (active 2022-2024) is superseded by the [European Open Source AI Index](https://osai-index.eu). We preserve this repository for historical purposes, but it is no longer updated. For the latest on openness and generative AI, check out the [osai-index.eu](https://osai-index.eu).
 
 **FAccT'24:** Liesenfeld, Andreas, and Mark Dingemanse. 2024. ‘Rethinking Open Source Generative AI: Open-Washing and the EU AI Act’. In _The 2024 ACM Conference on Fairness, Accountability, and Transparency_ (FAccT ’24). Rio de Janeiro, Brazil: ACM. ([PDF](https://pure.mpg.de/pubman/item/item_3588217_2/component/file_3588218/liesenfeld_dingemanse_2024_FAccT_generative_AI_open-washing_EU_AI_Act.pdf)).
 
